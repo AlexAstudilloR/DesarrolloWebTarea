@@ -1,0 +1,44 @@
+[
+  {
+    "nombre": "María Torres",
+    "email": "maria.torres@example.com",
+    "descripcion": "Una película conmovedora con actuaciones brillantes.",
+    "fecha": "12-05-2025",
+    "categoria": "Interstellar"
+  },
+  {
+    "nombre": "Luis Fernández",
+    "email": "luis.fernandez@example.com",
+    "descripcion": "Visuales impresionantes y una historia atrapante.",
+    "fecha": "10-05-2025",
+    "categoria": "Matrix"
+  },
+  {
+    "nombre": "Ana García",
+    "email": "ana.garcia@example.com",
+    "descripcion": "La banda sonora y la narrativa fueron mágicas.",
+    "fecha": "28-04-2025",
+    "categoria": "La La Land"
+  },
+  {
+    "nombre": "Carlos Ruiz",
+    "email": "carlos.ruiz@example.com",
+    "descripcion": "Una obra maestra con gran profundidad emocional.",
+    "fecha": "30-04-2025",
+    "categoria": "Parásitos"
+  },
+  {
+    "nombre": "Lucía Pérez",
+    "email": "lucia.perez@example.com",
+    "descripcion": "El desarrollo del personaje principal es fascinante.",
+    "fecha": "01-05-2025",
+    "categoria": "Joker"
+  },
+  {
+    "nombre": "Alex Astudillo",
+    "email": "aastudillo@gmail.com",
+    "descripcion": "Interesante",
+    "fecha": "2025-05-13",
+    "categoria": "Matrix"
+  }
+]

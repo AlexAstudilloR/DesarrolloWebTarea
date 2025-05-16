@@ -1,0 +1,114 @@
+[
+  {
+    "nombre": "El Origen",
+    "sinopsis": "Un ladrón con la habilidad de infiltrarse en los sueños intenta implantar una idea en la mente de un CEO.",
+    "duracion": "2h 28min",
+    "fechaEstreno": "2010-07-16",
+    "urlIMG": "http://localhost:3000/public/origen.jpg",
+    "reseña": [
+      "Brillante y compleja.",
+      "Una obra maestra de Nolan."
+    ]
+  },
+  {
+    "nombre": "Interstellar",
+    "sinopsis": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
+    "duracion": "2h 49min",
+    "fechaEstreno": "2014-11-07",
+    "urlIMG": "http://localhost:3000/public/interestelar.jpg",
+    "reseña": [
+      "Científicamente fascinante.",
+      "Visualmente impresionante."
+    ]
+  },
+  {
+    "nombre": "Matrix",
+    "sinopsis": "Un hacker descubre que la realidad que conoce es una simulación controlada por máquinas.",
+    "duracion": "2h 16min",
+    "fechaEstreno": "1999-03-31",
+    "urlIMG": "http://localhost:3000/public/matrix.jpg",
+    "reseña": [
+      "Revolucionaria en efectos especiales.",
+      "Un clásico de la ciencia ficción."
+    ]
+  },
+  {
+    "nombre": "Parásitos",
+    "sinopsis": "Una familia pobre se infiltra en la vida de una familia rica con consecuencias inesperadas.",
+    "duracion": "2h 12min",
+    "fechaEstreno": "2019-05-30",
+    "urlIMG": "http://localhost:3000/public/parasite.jpg",
+    "reseña": [
+      "Sátira social de alto nivel.",
+      "Inteligente y perturbadora."
+    ]
+  },
+  {
+    "nombre": "La La Land",
+    "sinopsis": "Un músico de jazz y una aspirante a actriz se enamoran mientras persiguen sus sueños en Los Ángeles.",
+    "duracion": "2h 8min",
+    "fechaEstreno": "2016-12-09",
+    "urlIMG": "http://localhost:3000/public/lalaland.jpeg",
+    "reseña": [
+      "Colorida y emotiva.",
+      "Una carta de amor al cine clásico."
+    ]
+  },
+  {
+    "nombre": "Gladiador",
+    "sinopsis": "Un general romano busca venganza después de ser traicionado y obligado a luchar como gladiador.",
+    "duracion": "2h 35min",
+    "fechaEstreno": "2000-05-05",
+    "urlIMG": "http://localhost:3000/public/gladiador.jpg",
+    "reseña": [
+      "Épica y conmovedora.",
+      "Russell Crowe está increíble."
+    ]
+  },
+  {
+    "nombre": "Joker",
+    "sinopsis": "La historia del origen del icónico villano de Gotham, centrada en su descenso a la locura.",
+    "duracion": "2h 2min",
+    "fechaEstreno": "2019-10-04",
+    "urlIMG": "http://localhost:3000/public/joker.jpg",
+    "reseña": [
+      "Oscura y perturbadora.",
+      "Joaquin Phoenix brilla."
+    ]
+  },
+  {
+    "nombre": "Titanic",
+    "sinopsis": "Una historia de amor trágica a bordo del famoso transatlántico que se hundió en 1912.",
+    "duracion": "3h 14min",
+    "fechaEstreno": "1997-12-19",
+    "urlIMG": "http://localhost:3000/public/titanic.webp",
+    "reseña": [
+      "Trágica y épica.",
+      "Una joya de James Cameron.",
+      "Una historia conmovedora con una banda sonora inolvidable.",
+      "Una wbd"
+    ]
+  },
+  {
+    "nombre": "Forrest Gump",
+    "sinopsis": "Un hombre con un bajo coeficiente intelectual presencia momentos históricos mientras persigue a su amor de infancia.",
+    "duracion": "2h 22min",
+    "fechaEstreno": "1994-07-06",
+    "urlIMG": "http://localhost:3000/public/gump.jpeg",
+    "reseña": [
+      "Tierna y reflexiva.",
+      "Tom Hanks en uno de sus mejores papeles."
+    ]
+  },
+  {
+    "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
+    "sinopsis": "Un hobbit emprende una misión para destruir un anillo mágico que podría dominar el mundo.",
+    "duracion": "2h 58min",
+    "fechaEstreno": "2001-12-19",
+    "urlIMG": "http://localhost:3000/public/anillos.jpg",
+    "reseña": [
+      "Fantástica y bien adaptada.",
+      "Un inicio épico para una trilogía legendaria."
+    ]
+  }
+]
